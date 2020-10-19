@@ -15,6 +15,6 @@ Preview
 ![Happy homepage screenshot](https://github.com/lucianakyoko/Happy/blob/main/.github/Happy-home.png)
 
 ![Happy orphanages screenshot](https://github.com/lucianakyoko/Happy/blob/main/.github/Happy-Orphanages.png)
- 
+
 ![Happy newOrphanage screenshot](https://github.com/lucianakyoko/Happy/blob/main/.github/Happy-newOrphanage.png)
  
