@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Happy
 Happy é um projeto web que visa facilitar visitas aos orfanatos próximos à você.
 
@@ -16,3 +17,4 @@ Preview
 ![Happy orphanages screenshot](https://github.com/lucianakyoko/Happy/blob/main/.github/Happy-Orphanages.png)
  
 ![Happy newOrphanage screenshot](https://github.com/lucianakyoko/Happy/blob/main/.github/Happy-newOrphanage.png)
+ 
