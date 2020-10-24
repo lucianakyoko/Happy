@@ -1,15 +1,17 @@
-#Happy
+# Happy
 Happy é um projeto web que visa facilitar visitas aos orfanatos próximos à você.
 
-##Tecnologias:
+## Tecnologias:
 * Node.js 
 * Express 
 * SQLite 
 * handlebars
 
-##Sobre
+## Sobre
+
 Este projeto foi desenvolvido durante a **NLW#3**, realizada pela **_@Rocketseat_** do dia 12 a 18 de Outubro de 2020.
-Preview
+
+## Preview
 
 ![Happy homepage screenshot](https://github.com/lucianakyoko/Happy/blob/main/.github/Happy-home.png)
 
