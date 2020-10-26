@@ -1,5 +1,5 @@
 # Happy
-Happy é um projeto web que visa facilitar visitas aos orfanatos próximos à você.
+Happy é um projeto web que visa facilitar visitas aos centros de acolhimento infantil próximos à você.
 
 ## Tecnologias:
 * Node.js 
